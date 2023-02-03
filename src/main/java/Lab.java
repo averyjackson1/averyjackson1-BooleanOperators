@@ -5,7 +5,7 @@
  * the different operators for basic boolean expressions.
  * 
  * More resources: https://www.freejavaguide.com/boolean_operators.htm
- * 
+ *  
  * NOTE: All of these problems can be solved with one line with boolean operators - eg, 'return !b;'
  */
 public class Lab {
